@@ -8,7 +8,7 @@ proyectos en los cuales voy practicando las tecnologías que voy aprendiendo par
 
 🌍 Soy de Bogotá, Colombia
 
-🌱 Actualmente estoy reforzando mis conocimientos en TypeScript
+🌱 Actualmente estoy aprendiendo JAVA
 
 ✉️ Puedes contactarme por: carlosm.9304@gmail.com
 
