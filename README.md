@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!! 👋 Soy Carlos Martínez<br><br>Desarrollador Web Full-Stack<br><br>Soy un desarrollador que busca un continuo crecimiento y aprendizaje, por la cual estoy aprendiendo tecnologías nuevas. <br>Me gusta mucho tanto el back-end como el front-end, por lo que no tengo problemas en desempeñarme en ambas áreas.<br>Me gusta realizar proyectos en los cuales voy practicando las tecnologías que voy aprendiendo para mejorar mis habilidades día a día.<br><br>🌱 Actualmente estoy aprendiendo JAVA.<br><br>Puedes contactarme por:<br>✔ https://www.linkedin.com/in/carlos-martínez-7491776a/<br>✔ (+57) 3007073660<br>✔ carlosm.9304@gmail.com
+Hola!! 👋 Soy Carlos Martínez<br><br>Desarrollador Web Full-Stack<br><br>Soy un desarrollador que busca un continuo crecimiento y aprendizaje, por la cual estoy aprendiendo tecnologías nuevas. <br>Me gusta mucho tanto el back-end como el front-end, por lo que no tengo problemas en desempeñarme en ambas áreas.<br>Me gusta realizar proyectos en los cuales voy practicando las tecnologías que voy aprendiendo para mejorar mis habilidades día a día.<br><br>Puedes contactarme por:<br>✔ https://www.linkedin.com/in/carlos-martínez-7491776a/<br>✔ (+57) 3007073660<br>✔ carlosm.9304@gmail.com
 
 
 ## 🌐 Socials:
